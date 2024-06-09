@@ -1,0 +1,55 @@
+[
+    {
+        "namaMobil": "AMG G63",
+        "merk": "Mercedes",
+        "imageId": "AMG G63"
+    },
+    
+    {
+        "namaMobil": "Challenger",
+        "merk": "Mustang",
+        "imageId": "Challenger"
+    },
+    
+    {
+        "namaMobil": "Chiron",
+        "merk": "Bugati",
+        "imageId": "Chiron"
+    },
+    
+    {
+        "namaMobil": "GT2RS",
+        "merk": "Porsche",
+        "imageId": "GT2RS"
+    },
+    
+    {
+        "namaMobil": "GTR 35",
+        "merk": "Nissan",
+        "imageId": "GTR 35"
+    },
+    
+    {
+        "namaMobil": "M4",
+        "merk": "Bmw",
+        "imageId": "M4"
+    },
+
+    {
+        "namaMobil": "RX 7",
+        "merk": "Masda",
+        "imageId": "RX 7"
+    },
+
+    {
+        "namaMobil": "S2000",
+        "merk": "Honda",
+        "imageId": "S2000"
+    },
+    
+    {
+       "namaMobil": "Subaru",
+        "merk": "Brz",
+        "imageId": "Subaru"
+    }
+]
